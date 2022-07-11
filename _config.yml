@@ -1,25 +1,25 @@
 ### Site metadata
 
-title: Artist's Portfolio
-description: A gallery of images for an artist's portfolio, built with Jekyll
+title: nummy
+description: nummy
 
-url: "https://artists-portfolio.netlify.app"
+url: "https://nummy.pics"
 baseurl: ""
 
-github_username: "MichaelCurrin"
-repository: "MichaelCurrin/artists-portfolio"
+github_username: "lynkray"
+repository: "lynkray/art"
 
 google_analytics_key: ""
 
 # For SEO tag.
 logo: /siteicon.png
 author:
-  name: Michael Currin
+  name: nummy
   twitter:
 social:
-  name: Artist's Portfolio
+  name: nummy
   links:
-    - https://github.com/MichaelCurrin/artists-portfolio
+    - https://nummy.pics
 
 ### Build settings
 
